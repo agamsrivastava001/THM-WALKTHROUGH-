@@ -19,7 +19,7 @@ Welcome to my repository for documenting labs, rooms, and challenges completed o
 
 ### 🐧 Linux & Systems
 - [x] **[Linux Fundamentals Part 1](../Linux-for-Cybersecurity/README.md)** — Documented core commands, file systems, and automated discovery tools.
-
+- [x] [Windows Basics](Windows_Basics_Walkthrough.md) — Explored Windows interface, desktop navigation, and standard built-in security auditing using Windows Security.
 ---
 *🔥 Continuous Learning Mode: ON. Updating logs daily as I progress through paths.*
 - [x] **[How The Web Works](./How_The_Web_Works_Walkthrough.md)** — Deep dive into HTTP requests/responses, DNS resolution, and web server architecture.
@@ -30,8 +30,8 @@ Welcome to my official repository documenting my hands-on experience, laboratory
 ---
 
 ## 🚀 Rapid Progression Metrics
-* **Current Level:** 5 (Visionary) `[0x5]`
-* **Global Rank:** Top 25% on TryHackMe (Achieved within the first 3.5 days starting from scratch!)
+* **Current Level:** 6 (Voyager) `[0x6]`
+* **Global Rank:** Top 20% on TryHackMe 
 * **Learning Path:** Security Engineer / Introduction to Cybersecurity
 
 ---
